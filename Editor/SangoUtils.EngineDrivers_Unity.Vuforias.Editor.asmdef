@@ -1,0 +1,18 @@
+{
+    "name": "SangoUtils.EngineDrivers_Unity.Vuforias.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0bda2e8cfc4c2484c91c0fa06b76fd43"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
